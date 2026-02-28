@@ -4,12 +4,12 @@ Michelle's To Doing List:  (In order of doing)
 [ ] ping Nick to see where I'm going on WEDNESDAY MARCH 4th
 
 [ ] add metrics from current dashboard to google doc
-[ ] Create dummy data CVS/JSON files
-[ ] Add data to webpage
+[ ] Create dummy data CVS/JSON files from metrics listed in google doc
+[ ] Add dummy data to webpage
 [ ] separate dashboards into three tabs
 [ ] Create charts from data on webpage
     [ ] probably using this library: https://www.chartjs.org/docs/latest/samples/bar/border-radius.html
-[ ] allow live updates on page with refreshing page
+[ ] allow live updates on page without refreshing page
 
 [ ] Set up dev account on windows box [at home]
     [ ] add tailscale windows box
