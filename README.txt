@@ -1,6 +1,6 @@
 Michelle's To Doing List:  (In order of doing)
 
-[ ] ping Sanyan to have a call on THURSDAY MARCH 5
+[x] ping Sanyan to have a call on THURSDAY MARCH 5
 [x] ping Nick to see where I'm going on WEDNESDAY MARCH 4th
 
 [ ] add metrics from current dashboard to google design spec doc
