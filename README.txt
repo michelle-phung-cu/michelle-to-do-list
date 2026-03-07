@@ -5,12 +5,12 @@ on hp-server:
     python scripts here:    https://github.com/michelle-phung-cu/mish-water-python-scripts
     also in Documents/fog-dashboard/ on moby-server
     
-[ ] Serve Fog folder to www
+[ ] Serve Fog output json to www
         - issues
-            streamlit is running so you will have to add another route to server a new file using the same tailnet address currentdashboard.com/output/my_output.json
-        - running on localhost: 8501
-        - using port 443
-        - you can add a new route but it's complicated
+            streamlit is running so you will have to add another route to server a new file using the same tailnet address at http://currentdashboard.com/output/my_output.json
+        - streamlit is running on localhost: 8501
+        - using port 443 forwarded
+        - you can add a new route but it's complicated 
 
 [ x] grab data from outside of tailscale?
 [ x] serve from hp-server?
@@ -27,10 +27,10 @@ on hp-server:
 
 [ ] allow live updates on page without refreshing page - check in with group to see if this is what they want first
 
-[ ] Set up dev account on windows box [at home]
+[x] Set up dev account on windows box [at home]
     [x] add tailscale windows box
     [x] set up git/hub 
-    [ ] connect to server on windows box
+    [x] connect to server on windows box
 
 [  ] Try to set up sev account on linux box [at Lamont]
     [ ] add tailscale linux box
