@@ -1,11 +1,19 @@
 Michelle's To Doing List:  (In order of doing)
 
 on hp-server:
-[ ] get data from water_data.db into /Documents/Fog folder
+[ x] get data from water_data.db into /Documents/Fog folder
+    python scripts here:    https://github.com/michelle-phung-cu/mish-water-python-scripts
+    also in Documents/fog-dashboard/ on moby-server
+    
 [ ] Serve Fog folder to www
+        - issues
+            streamlit is running so you will have to add another route to server a new file using the same tailnet address currentdashboard.com/output/my_output.json
+        - running on localhost: 8501
+        - using port 443
+        - you can add a new route but it's complicated
 
-[ ] grab data from outside of tailscale?
-[ ] serve from hp-server?
+[ x] grab data from outside of tailscale?
+[ x] serve from hp-server?
 
 [ ] Design Spec:add metrics from current dashboard to google design spec doc
 
