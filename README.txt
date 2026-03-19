@@ -1,14 +1,14 @@
 Michelle's To Doing List:  (In order of doing)
 [ ] go wild
 
-[ ] open hp-server in remote ssh vscode extension configs
-[ ] copy db to fog-dashboard folder / home ?
+[x] open hp-server in remote ssh vscode extension configs
+[x] copy db to fog-dashboard folder / home ?
 [ ] set up github repo for fog in hp fog folder
 [ ]  
 
 
 [ ] Design Spec:add metrics from current dashboard to google design spec doc
-[ ] Create data CVS/JSON files from metrics listed in design spec
+[x] Create data CVS/JSON files from metrics listed in design spec
 [ ] separate dashboards into three tabs
 
 [ ] create charts in Design Spec / get sign off before implementing in code
