@@ -1,6 +1,9 @@
 Michelle's To Doing List:  (In order of doing)
 [ ] go wild
 
+[ ] pull down all external sources to bundle
+[ ] start react project
+[ ] straw cursor?
 [ ] real time blobs functionality?
     [] on hover change color? 
     [] click to copy?
