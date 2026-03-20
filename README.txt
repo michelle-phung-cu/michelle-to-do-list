@@ -1,6 +1,7 @@
 Michelle's To Doing List:  (In order of doing)
 [ ] go wild
 
+[ ] fix css issues on historical charts page body off center
 [ ] pull down all external sources to bundle
 [ ] start react project
 [ ] straw cursor?
