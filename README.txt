@@ -1,4 +1,8 @@
-Michelle's To Doing List:  (In order of doing)
+Michelle's To Doing List:  (In order of doing, roughly)
+[] = todo
+[-]= inprogress 
+[x]= done 
+------------------------------------------------------------------------------
 [ ] go wild
 
 [ ] checkout tailscale api server / postman
