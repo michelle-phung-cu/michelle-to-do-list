@@ -1,7 +1,15 @@
 Michelle's To Doing List:  (In order of doing)
 [ ] go wild
 
-[ ] start react project
+[ ] checkout tailscale api server / postman
+[ ] add button press for raspberry pi remotely 
+[x] start react project
+
+[ ] static page - (is it a dashboard at all?) 
+[ ] add a map
+[ ] animations
+[ ] fish? marine mammals?
+[ ] floaty colors? 
 
 [ ] figure out what goes into the system config
 [ ] set up github repo for fog in hp fog folder
