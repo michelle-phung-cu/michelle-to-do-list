@@ -1,21 +1,11 @@
 Michelle's To Doing List:  (In order of doing)
 [ ] go wild
 
-[ ] fix css issues on historical charts page body off center
-[ ] pull down all external sources to bundle
 [ ] start react project
-[ ] straw cursor?
-[ ] real time blobs functionality?
-    [] on hover change color? 
-    [] click to copy?
-    [] see more? see history?
+
 [ ] figure out what goes into the system config
 [ ] set up github repo for fog in hp fog folder
-[ ] Design Spec:add metrics from current dashboard to google design spec doc
-[ ] create charts in Design Spec / get sign off before implementing in code
-    [ ] Create charts from data on webpage
-    [ ] probably using this library: 
-        https://www.chartjs.org/docs/latest/samples/bar/border-radius.html
+
 [ ] allow live (at variable increments) updates on page without refreshing page? - check in with group to see if this is what they want first
 [  ] Try to set up sev account on linux box [at Lamont]
     [ ] add tailscale linux box
@@ -23,6 +13,19 @@ Michelle's To Doing List:  (In order of doing)
     [ ] connect to server on linux box
 ---
 done-done:
+[x] Design Spec:add metrics from current dashboard to google design spec doc
+[ ] create charts in Design Spec / get sign off before implementing in code
+    [ ] Create charts from data on webpage
+    [ ] probably using this library: 
+        https://www.chartjs.org/docs/latest/samples/bar/border-radius.html
+[x ] fix css issues on historical charts page body off center
+[x] pull down all external sources to bundle
+[x ] straw cursor
+[ ] real time blobs functionality?
+    [] on hover change color? 
+    [] click to copy?
+    [] see more? see history?
+
 [x] Create data CVS/JSON files from metrics listed in design spec
 [x] separate dashboards into three tabs
 
