@@ -18,7 +18,7 @@ Michelle's To Doing List:  (In order of doing, roughly)
 [ ] figure out what goes into the system config
 [ ] set up github repo for fog in hp fog folder
 
-[ ] allow live (at variable increments) updates on page without refreshing page? - check in with group to see if this is what they want first
+[ ] allow live (at variable increments) updates on page (manual refresh? button press? magic?)
 [  ] Try to set up sev account on linux box [at Lamont]
     [ ] add tailscale linux box
     [ ] set up git/hub 
